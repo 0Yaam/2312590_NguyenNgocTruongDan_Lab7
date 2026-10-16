@@ -1,0 +1,5 @@
+* a808c45 - 2312590 - Nguyen Ngoc Truong Dan (2026-10-16 13:48:43 +0700): 2312590: them bao cao va log minh chung [skip ci]
+* 0fdfd3e - 2312590 - Nguyen Ngoc Truong Dan (2026-10-16 13:42:34 +0700): 2312590: sua loi linter va phuc hoi build
+* a316ff4 - 2312590 - Nguyen Ngoc Truong Dan (2026-10-16 13:41:41 +0700): 2312590: break the build de kiem tra linter
+* 1a0bbcf - 2312590 - Nguyen Ngoc Truong Dan (2026-10-16 13:41:03 +0700): 2312590: bo sung test mocking vuot quality gate
+* 9f34777 - 2312590 - Nguyen Ngoc Truong Dan (2026-10-16 13:39:30 +0700): 2312590: khoi tao YummyApp va quality gate
